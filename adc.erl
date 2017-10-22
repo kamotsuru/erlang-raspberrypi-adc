@@ -1,4 +1,4 @@
--module(print).
+-module(adc).
 -compile(export_all).
 
 -define(SPICLK, "11"). %% GPIOピン番号
